@@ -10,6 +10,6 @@ Later, in 2019, my information technologies teacher from middle school, Şebnem 
 
 Even though I took a long break to Python, it didn't take too long for me to remember everything I know. Yet, I had some trouble making the library work. So I gave up. Instead, I decided to work on my project. After a short time, I decided to try that library again. And surprisingly, it worked! I named my second ever project "Encrypt'n Decrypt". I wanted the application to have a GUI, so I started learning about how to create a GUI using tkinter or PyQt (all myself). First, it seemed a bit complicated. Yet it got easier as the time went on.
 
-### How am I right now?
+### How is it right now?
 
 I recently started working on Discord bots which expanded my Python knowledge A LOT. I learned about object oriented programming, classes, asynchronous programming, threading and a lot more. I'm currently working on my Discord bot, Woozie and Encrypt'n Decrypt program.
