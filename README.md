@@ -4,6 +4,7 @@ I'm Yılmaz. I'm 15 years old and I'm living in Istanbul, Turkey. I'm currently 
 - Python (at a decent level)
 - C++ (pre-intermediate)
 - C# (pre-intermediate)
+- Java (beginner)
 
 I've been learning Python since 2017 (it's been 5 years, wow) and I decided to jump to other languages in late 2021, starting with C#, followed by C++ and Java. I hate C though, for some reason. It's too low-level. Anyway, I like creating desktop applications for Windows, however, I recently started learning web development as well. If I become a web developer though, I would definitely be a back-end developer, I literally suck at design. Anyways, to recapitulate, I definitely want to be a software developer in the future.
 
