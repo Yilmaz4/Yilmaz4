@@ -4,7 +4,7 @@ I'm Yılmaz. I'm 15 years old and I'm living in Istanbul, Turkey. I'm currently 
 
 - C/C++
 - Python
-- C#
+- C# (beginner)
 
 I've been learning Python since 2017 (it's been 5 years, wow) and I decided to jump to other languages in late 2021, starting with C#, followed by C++ and Java. I was first interested in object oriented programming, yet I've been into low level and procedural programming nowadays. And, well, I definitely want to be a software engineer.
 
