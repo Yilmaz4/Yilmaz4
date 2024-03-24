@@ -1,6 +1,6 @@
 ### Hello there 👋!
 
-Enthusiastic programmer, 16 years old, interested in graphics programming, physics, AI and retro computing, currently working on [NBodiment](https://github.com/Yilmaz4/NBodiment)
+Enthusiastic programmer, interested in graphics programming, physics, AI and retro computing, currently working on [NBodiment](https://github.com/Yilmaz4/NBodiment) 
 
 <table> 
    <tr> 
