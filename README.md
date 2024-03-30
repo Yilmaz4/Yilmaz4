@@ -41,11 +41,11 @@ Enthusiastic programmer, interested in graphics programming, physics, AI and ret
   <br>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Yilmaz4&show_icons=true&theme=dark&bg_color=101010&cache_seconds=50&title_color=efefef&text_color=979da3&border_color=30363d&include_all_commits=True&custom_title=My%20coding%20stats%20this%20week"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Yilmaz4&show_icons=true&theme=dark&bg_color=101010&cache_seconds=57&title_color=efefef&text_color=979da3&border_color=30363d&include_all_commits=True&custom_title=My%20coding%20stats%20this%20week"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Yilmaz4&show_icons=true&cache_seconds=50&hide=markdown,text,other,html&include_all_commits=True&custom_title=My%20coding%20stats%20this%20week"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Yilmaz4&show_icons=true&cache_seconds=57&hide=markdown,text,other,html&include_all_commits=True&custom_title=My%20coding%20stats%20this%20week"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Yilmaz4&show_icons=true&cache_seconds=50&hide=markdown,text,other,html&include_all_commits=True&custom_title=My%20coding%20stats%20this%20week" height="107px" />
