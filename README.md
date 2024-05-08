@@ -1,6 +1,6 @@
 ### Hello there 👋!
 
-Enthusiastic programmer, interested in graphics programming, physics, AI and retro computing, currently working on [NBodiment](https://github.com/Yilmaz4/NBodiment) 
+Enthusiastic programmer, interested in graphics programming, physics, AI and retro computing, currently working on [Threadcast](https://github.com/Yilmaz4/Threadcast) 
 
 <table> 
    <tr> 
