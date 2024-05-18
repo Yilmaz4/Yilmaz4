@@ -1,6 +1,6 @@
 ### Hello there 👋!
 
-Enthusiastic programmer, 16 years old, interested in graphics programming, physics, AI and retro computing, currently working on [Threadcast](https://github.com/Yilmaz4/Threadcast) 
+Enthusiastic programmer, 16 years old, interested in graphics programming, physics, AI and retro computing
 
 <table> 
    <tr> 
