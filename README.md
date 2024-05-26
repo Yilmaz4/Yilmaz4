@@ -1,6 +1,6 @@
 ### Hello there 👋!
 
-Enthusiastic programmer, 16 years old, interested in graphics programming, physics, AI and retro computing
+Enthusiastic programmer, 16 years old, interested in graphics programming, computational physics, AI and retro computing
 
 <table> 
    <tr> 
