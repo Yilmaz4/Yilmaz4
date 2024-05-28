@@ -2,6 +2,8 @@
 
 Enthusiastic programmer, 16 years old, interested in graphics programming, computational physics, AI and retro computing
 
+**Languages:** Python, C/C++, C#, learning Rust
+
 <table> 
    <tr> 
       <td><picture>
