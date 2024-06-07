@@ -1,5 +1,5 @@
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 1000%; object-fit: fill; width: 1000%; opacity: 0.2; background-size:cover; background: url('https://github.com/Yilmaz4/Yilmaz4/assets/77583632/5f9b202c-d0c0-4d29-a513-a177881778cf');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: -1; position: fixed; top: 0; left: 0; height: 1000%; object-fit: cover; opacity: 0.2; background-size:cover; background: url('https://github.com/Yilmaz4/Yilmaz4/assets/77583632/5f9b202c-d0c0-4d29-a513-a177881778cf');]{x0000}$}
 ```
 
 ### Hello there 👋!
