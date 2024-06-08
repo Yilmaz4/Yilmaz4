@@ -1,5 +1,13 @@
 ### Hello there 👋!
 
+<div align="center">
+	<br>
+	<a href="https://github.com/Yilmaz4/Yilmaz4/blame/main/Blank1x1.svg">
+		<img src="Blank1x1.svg" width="1" height="1">
+	</a>
+	<br>
+</div>
+
 Enthusiastic programmer, 16 years old, interested in graphics programming, computational physics, AI and retro computing
 
 **Languages:** Python, C/C++, C#, GLSL, SQL, learning Rust
