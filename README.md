@@ -1,11 +1,5 @@
 ### Hello there 👋!
 
-```math
-\mmlToken{ms}[fontfamily="
-madebycubiquwu; // good work tbh ngl
-z-index: 99999; position: fixed; top: 0; left: 0; height: 100%; object-fit: fill; width: 100%; pointer-events: none; opacity: 0.2; background-repeat: no-repeat; background-position: center; background: url('https://github.com/Yilmaz4/Yilmaz4/assets/77583632/5be8e8de-ca0d-48c3-a732-5102813ba041') no-repeat center center; background-size: 100% 100%;"]{}
-```
-
 Enthusiastic programmer, 16 years old, interested in graphics programming, computational physics, AI and retro computing
 
 **Languages:** Python, C/C++, C#, GLSL, SQL, learning Rust
