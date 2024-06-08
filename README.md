@@ -1,9 +1,12 @@
 ### Hello there 👋!
 
 <div align="center">
-    <a href="https://github.com/Yilmaz4/Yilmaz4/blame/main/Blank1x1.svg">
-        <img src="Blank1x1.svg" width="1" height="1">
-    </a>
+  <svg fill="none" viewBox="0 0 1 1" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="height: 100vh; width: 100vw; background: url('data:image/png;base64,PHN2ZyBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMSAxIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPg0KICA8Zm9yZWlnbk9iamVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4NCiAgICA8ZGl2IHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIj4NCg0KICAgICAgPHN0eWxlPg0KICAgICAgICBoZWlnaHQ6IDEwMCU7IG9iamVjdC1maXQ6IGZpbGw7IHdpZHRoOiAxMDAlOyBvcGFjaXR5OiAwLjI7IGJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7IGJhY2tncm91bmQtcG9zaXRpb246IGNlbnRlcjsgYmFja2dyb3VuZDogdXJsKCdodHRwczovL2dpdGh1Yi5jb20vWWlsbWF6NC9ZaWxtYXo0L2Fzc2V0cy83NzU4MzYzMi81YmU4ZThkZS1jYTBkLTQ4YzMtYTczMi01MTAyODEzYmEwNDEnKSBuby1yZXBlYXQgY2VudGVyIGNlbnRlcjsgYmFja2dyb3VuZC1zaXplOiAxMDAlIDEwMCU7DQogICAgICA8L3N0eWxlPg0KDQogICAgPC9kaXY+DQogIDwvZm9yZWlnbk9iamVjdD4NCjwvc3ZnPg==') no-repeat center center; background-size: cover; opacity: 0.2;">
+      </div>
+    </foreignObject>
+  </svg>
 </div>
 
 Enthusiastic programmer, 16 years old, interested in graphics programming, computational physics, AI and retro computing
