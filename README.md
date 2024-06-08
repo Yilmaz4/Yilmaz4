@@ -1,11 +1,9 @@
 ### Hello there 👋!
 
 <div align="center">
-	<br>
-	<a href="https://github.com/Yilmaz4/Yilmaz4/blame/main/Blank1x1.svg">
-		<img src="Blank1x1.svg" width="1" height="1">
-	</a>
-	<br>
+    <a href="https://github.com/Yilmaz4/Yilmaz4/blame/main/Blank1x1.svg">
+        <img src="Blank1x1.svg" width="1" height="1">
+    </a>
 </div>
 
 Enthusiastic programmer, 16 years old, interested in graphics programming, computational physics, AI and retro computing
