@@ -1,6 +1,6 @@
 ### Hello there 👋!
 
-Enthusiastic programmer, 16 years old; interested in math, graphics programming, computational physics and machine learning
+Enthusiastic programmer, 17 years old; interested in math, graphics programming, computational physics and machine learning
 
 **Languages:** Python, C/C++, learning Rust and C#
 
