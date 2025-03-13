@@ -1,8 +1,8 @@
 ### Hello there 👋!
 
-Enthusiastic programmer, 17 years old; interested in math, graphics programming, computational physics and machine learning
+Enthusiastic programmer, Linux enjoyer, aviation geek, math and physics nerd, I haven't yet decided what field of CS to pursue
 
-**Languages:** Python, C/C++, learning Rust and C#
+**Languages:** Python, C/C++, learning Rust
 
 <table> 
    <tr> 
