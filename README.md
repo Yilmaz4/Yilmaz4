@@ -1,6 +1,6 @@
 ### Hello there 👋!
 
-Enthusiastic programmer, Linux enjoyer, aviation geek, math and physics nerd, I haven't yet decided what field of CS to pursue
+Enthusiastic programmer, Linux enjoyer, aviation geek, math and physics nerd, 17 years old
 
 **Languages:** Python, C/C++, learning Rust
 
