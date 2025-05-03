@@ -1,6 +1,6 @@
 ### Hello there 👋!
 
-Enthusiastic programmer, Linux enjoyer, aviation geek, math and physics nerd, 17 years old
+I'm a 17-year-old high school student in Germany; interested in programming, math, physics and aviation, I use Arch btw
 
 **Languages:** Python, C/C++, learning Rust
 
