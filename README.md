@@ -1,8 +1,8 @@
 ### Hello there 👋!
 
-I'm a 17-year-old high school student in Germany; interested in programming, math, physics and aviation, I use Arch btw
+I'm an 18-year-old high school student in Germany; interested in programming, math, physics and aviation, I use Arch btw
 
-**Languages:** Python, C/C++, learning Rust
+**Languages:** C/C++, Python, learning Rust
 
 <table> 
    <tr> 
