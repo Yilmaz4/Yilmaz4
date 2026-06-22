@@ -8,7 +8,7 @@ I'm an 18-year-old high school student in Germany; interested in programming, ma
    <tr> 
       <td><picture>
   <source
-    srcset="https://leetcard.jacoblin.cool/Yilmaz04?theme=dark&font=Noto%20Sans%20Hanifi%20Rohingya&colors=%230D1117%2C%2330363d%2C%23979da3&ext=activity"
+    srcset="https://leetcard.jacoblin.cool/Yilmaz04?theme=dark&font=Noto%20Sans%20Hanifi%20Rohingya&colors=%230D1117%2C%230d1117%2C%23c7cfd8&ext=activity"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -20,7 +20,7 @@ I'm an 18-year-old high school student in Germany; interested in programming, ma
       <td><div>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Yilmaz4&custom_title=My%20GitHub%20stats&theme=dark&bg_color=0D1117&title_color=efefef&text_color=979da3&border_color=30363d&hide=issues,contribs&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=Yilmaz4&custom_title=My%20GitHub%20stats&theme=dark&bg_color=0D1117&title_color=efefef&text_color=979da3&border_color=0d1117&hide=issues,contribs&show_icons=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -31,7 +31,7 @@ I'm an 18-year-old high school student in Germany; interested in programming, ma
   </picture>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yilmaz4&theme=dark&layout=compact&bg_color=0D1117&cache_seconds=1703&title_color=efefef&text_color=979da3&border_color=30363d&custom_title=My%20top%20languages&hide=tcl,html,Batchfile,Makefile,Objective-C,CMake,Cython"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Yilmaz4&theme=dark&layout=compact&bg_color=0D1117&cache_seconds=1703&title_color=efefef&text_color=979da3&border_color=0d1117&custom_title=My%20top%20languages&hide=tcl,html,Batchfile,Makefile,Objective-C,CMake,Cython"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -43,7 +43,7 @@ I'm an 18-year-old high school student in Germany; interested in programming, ma
   <br>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Yilmaz4&show_icons=true&theme=dark&bg_color=0D1117&cache_seconds=57&title_color=efefef&text_color=979da3&border_color=30363d&include_all_commits=True&custom_title=My%20coding%20stats%20this%20week"
+      srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Yilmaz4&show_icons=true&theme=dark&bg_color=0D1117&cache_seconds=57&title_color=efefef&text_color=979da3&border_color=0d1117&include_all_commits=True&custom_title=My%20coding%20stats%20this%20week"
       media="(prefers-color-scheme: dark)"
     />
     <source
