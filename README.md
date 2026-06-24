@@ -15,7 +15,7 @@ I'm an 18-year-old high school student in Germany; interested in programming, ma
     srcset="https://leetcard.jacoblin.cool/Yilmaz04?theme=light&font=Noto%20Sans%20Hanifi%20Rohingya&ext=activity"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://leetcard.jacoblin.cool/Yilmaz04?theme=dark&font=Noto%20Sans%20Hanifi%20Rohingya&bg_color=0d1117&title_color=c7cfd8&text_color=979da3&border_color=30363d&ext=activity" height="220px" />
+  <img src="https://leetcard.jacoblin.cool/Yilmaz04?theme=dark&font=Noto%20Sans%20Hanifi%20Rohingya&bg_color=0d1117&title_color=c7cfd8&text_color=979da3&border_color=30363d&ext=activity" height="220px" width="275px" />
 </picture></td> 
       <td><div>
   <picture>
